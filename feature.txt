@@ -1,1 +1,2 @@
 Creating first feature
+This is a new feature
